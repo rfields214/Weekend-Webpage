@@ -3,5 +3,14 @@ body {
 }
 p{
 	color:blue;
+	font-size: 40px;
 }
 
+ul{
+	font-size: 50px;
+	font-family: Arial;
+}
+
+li{
+	list-style-type: block;	
+}
